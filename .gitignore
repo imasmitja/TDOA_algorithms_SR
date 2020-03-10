@@ -1,0 +1,5 @@
+# ignore pickle files
+*.pickle
+
+# ignore data raw files 
+data/raw/
